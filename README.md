@@ -1,6 +1,6 @@
-<h2 align="center">👾 Hello! I'm Cristian.<img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExaXhzZDFjZnR2M3JyM2JjbHJodjE0dmpjYXVxZnpveHdwaG42azhwbCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/qlOso7alCUTiAX7aG5/giphy.gif" width="45"/></h2>
+<h1 align="center">👾 Hello! I'm Cristian.<img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExaXhzZDFjZnR2M3JyM2JjbHJodjE0dmpjYXVxZnpveHdwaG42azhwbCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/qlOso7alCUTiAX7aG5/giphy.gif" width="45"/></h1>
 
-<h1 align="center"> 💻 Don't be a programmer, become a great solution.✨✨</h1>
+<h2 align="center"> 💻 Don't be a programmer, become a great solution.✨✨</h2>
 
 <br>
 
