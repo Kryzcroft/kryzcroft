@@ -60,9 +60,21 @@
     </td>
     <td align="center" width="96">
       <a>
-        <img src="./img/javascript-svgrepo-com.svg" width="50" height="50" alt="Java Script" />
+        <img src="./img/google-gsuite-svgrepo-com.svg" width="50" height="50" alt="Google Suite"/>
       </a>
-      <br>JavaScript
+      <br>GoogleSuite
+    </td>
+    <td align="center" width="96">
+      <a>
+        <img src="./img/google-analytics-3-logo-svgrepo-com.svg" width="50" height="50" alt="Google Analytics"/>
+      </a>
+      <br>GoogleAnalytics
+    </td>
+    <td align="center" width="96">
+      <a>
+        <img src="./img/firebase-svgrepo-com.svg" width="50" height="50" alt="FireBase"/>
+      </a>
+      <br>FireBase
     </td>
   </tr>
 </table>
