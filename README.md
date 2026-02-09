@@ -54,6 +54,12 @@
     </td>
     <td align="center" width="96">
       <a>
+        <img src="./img/parrot_securyti.svg" width="50" height="50" alt="FireBase"/>
+      </a>
+      <br>Parrot Securyti
+    </td>
+    <td align="center" width="96">
+      <a>
         <img src="./img/mysql-logo-svgrepo-com.svg" width="50" height="50" alt="My SQL" />
       </a>
       <br>MySQL
@@ -76,5 +82,18 @@
       </a>
       <br>FireBase
     </td>
+    <td align="center" width="96">
+      <a>
+        <img src="./img/appsheet_rebrand_logo.svg" width="50" height="50" alt="FireBase"/>
+      </a>
+      <br>Appsheet
+    </td>
+    <td align="center" width="96">
+      <a>
+        <img src="./img/ms-excel-svgrepo-com.svg" width="50" height="50" alt="FireBase"/>
+      </a>
+      <br>Excel
+    </td>
+    
   </tr>
 </table>
